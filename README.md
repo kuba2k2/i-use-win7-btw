@@ -39,6 +39,7 @@ Essentials:
 - [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/) (login required) - A project to install Extended Security Updates for Windows 7 and Server 2008 R2
 - [wufuc](https://github.com/chipsi007/wufuc) - Disables the "Unsupported Hardware" message in Windows Update
 - [Windows 7 ESU Patching](https://hackandpwn.com/windows-7-esu-patching/) by [HackAndPwn](https://hackandpwn.com/) - comprehensive list of official Windows updates and their meaning for `the most up-to-date installation possible`
+- [Simplix UpdatePack 7](https://www.majorgeeks.com/files/details/simplix_updatepack.html) [[official website](https://blog.simplix.info/update7/)] - Update set for Windows 7 SP1 and Server 2008 R2 SP1
 
 Tweaks:
 
@@ -163,12 +164,13 @@ WakaTime          | Broken    |          |            |
 
 ### Utilities
 
-Name       | Official  | Tested | Compatible | Patched
------------|-----------|--------|------------|--------
-Chocolatey | Supported | 2.2.2  |            |
-Fing       |           | 2.10.0 |            |
-Rufus      | 3.22      | 3.11   |            |
-Syncthing  | Broken    | 1.27.0 |            |
+Name        | Official  | Tested | Compatible | Patched
+------------|-----------|--------|------------|---------
+Chocolatey  | Supported | 2.2.2  |            |
+Fing        |           | 2.10.0 |            |
+Rufus       | 3.22      | 3.11   |            |
+Syncthing   | Broken    | 1.27.0 |            |
+qBittorrent |           |        |            | 🇻 4.6.3
 
 ### Other
 
@@ -181,7 +183,8 @@ Name | Official | Tested | Compatible | Patched
 ### Launchers
 
 Name  | Official | Tested     | Compatible | Patched
-------|----------|------------|------------|--------
+------|----------|------------|------------|------------
+PCSX2 |          |            |            | 🇻 1.7.3256
 Steam | Dropped  | 1705108172 |            |
 
 ### Games
